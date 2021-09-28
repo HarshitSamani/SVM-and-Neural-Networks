@@ -1,0 +1,12 @@
+The SVM classification accuracy with linear Kernel with 0% label noise is: 82.75%
+The SVM classification accuracy with poly Kernel with 0% label noise is: 87.75%
+The SVM classification accuracy with rbf Kernel with 0% label noise is: 100.00%
+The SVM classification accuracy with sigmoid Kernel with 0% label noise is: 42.75%
+The SVM classification accuracy with linear Kernel with 20% label noise is: 64.75%
+The SVM classification accuracy with poly Kernel with 20% label noise is: 66.75%
+The SVM classification accuracy with rbf Kernel with 20% label noise is: 77.25%
+The SVM classification accuracy with sigmoid Kernel with 20% label noise is: 42.75%
+The SVM classification accuracy with linear Kernel with 40% label noise is: 51.25%
+The SVM classification accuracy with poly Kernel with 40% label noise is: 54.25%
+The SVM classification accuracy with rbf Kernel with 40% label noise is: 57.50%
+The SVM classification accuracy with sigmoid Kernel with 40% label noise is: 44.00%
